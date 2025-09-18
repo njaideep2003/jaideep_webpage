@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heni-29/heni-prajapati.git"
+    "url": "https://github.com/njaideep2003/jaideep_webpage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heni-29/heni-prajapati/issues"
+    "url": "https://github.com/njaideep2003/jaideep_webpage/issues"
   },
-  "homepage": "https://github.com/heni-29/heni-prajapati#readme",
+  "homepage": "https://jaideep-nutalapati.github.io",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.2",
-    "gh-pages": "^6.3.0"
+    "@11ty/eleventy": "^3.1.2"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.1.13"
   }
 }
